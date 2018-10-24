@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "291516263324",
+    "firebase_url": "https://geoheattest.firebaseio.com",
+    "project_id": "geoheattest",
+    "storage_bucket": "geoheattest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291516263324:android:29c019e2e9f183fa",
+        "android_client_info": {
+          "package_name": "test.udit.geohealthtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291516263324-kv9cugd1sp330fkcphpr0k5hbcaiffs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.udit.geohealthtest",
+            "certificate_hash": "e298c92388e588ea300d077fb1631f7a0bc88d60"
+          }
+        },
+        {
+          "client_id": "291516263324-7pk9bdlo1vp8tnrfhj9n9vbfe84hbo1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HT93jUWti0e1_GwBNBlWIjiIuL3sRIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291516263324-7pk9bdlo1vp8tnrfhj9n9vbfe84hbo1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
